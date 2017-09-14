@@ -1,10 +1,10 @@
 # Average value for mean and std calculations data
 
 Course: Getting and Cleaning Data
- By: Jorge Sauma
-  Date: 09/14/2017
+By: Jorge Sauma
+Date: 09/14/2017
  
- The UCI Dataset includes measurements for 561 features for 30 subjects doing any of 6 activities types. The goal of this code is to extract the information from this data and calculate the average value for variables which the mean and std were already calculated. For example, tBodyAcc-mean()-X and tBodyAcc-std()-X.
+The UCI Dataset includes measurements for 561 features for 30 subjects doing any of 6 activities types. The goal of this code is to extract the information from this data and calculate the average value for variables which the mean and std were already calculated. For example, tBodyAcc-mean()-X and tBodyAcc-std()-X.
 
 Also, the average will be calculated for the combination of subject and activity. For example, subject 1 walking is one measurement, subject 2 laying is another measurement. 
 
