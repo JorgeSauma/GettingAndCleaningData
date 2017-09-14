@@ -1,4 +1,4 @@
-#Average value for mean and std calculations data
+# Average value for mean and std calculations data
 
 Course: Getting and Cleaning Data
  By: Jorge Sauma
