@@ -37,7 +37,7 @@ library(dplyr)
 # Load the data
 # It's assumed that the working directory is set to the root directory where the README file is located
 
-setwd("$HOME/UCI HAR Dataset")
+setwd("./UCI HAR Dataset")
 
 #Load train data
 data_train_labels <- read.table("train/y_train.txt")
