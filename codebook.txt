@@ -1,0 +1,81 @@
+Mean and Standard Deviation Data Selection
+===============
+
+The table has the subject id and the Activity. 
+For each subject doing one activity, the average for the mean and std features described in features_info.txt is showed.
+Again, keep in mind that not all the 561 features are present. This data is only for the mean and standard deviation (std) related features.
+
+The full list of variables are:
+
+"Subject": Id of the subject
+"Activity": Activity thats the subject was doing. Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+ 
+Average features list: 
+For a description of the features and how they were calculated, see features_info.txt
+
+"Average_tBodyAcc-mean()-X"
+"Average_tBodyAcc-mean()-Y"
+"Average_tBodyAcc-mean()-Z"
+"Average_tBodyAcc-std()-X"
+"Average_tBodyAcc-std()-Y"
+"Average_tBodyAcc-std()-Z"
+"Average_tGravityAcc-mean()-X"
+"Average_tGravityAcc-mean()-Y"
+"Average_tGravityAcc-mean()-Z"
+"Average_tGravityAcc-std()-X"
+"Average_tGravityAcc-std()-Y"
+"Average_tGravityAcc-std()-Z"
+"Average_tBodyAccJerk-mean()-X"
+"Average_tBodyAccJerk-mean()-Y"
+"Average_tBodyAccJerk-mean()-Z"
+"Average_tBodyAccJerk-std()-X"
+"Average_tBodyAccJerk-std()-Y"
+"Average_tBodyAccJerk-std()-Z"
+"Average_tBodyGyro-mean()-X"
+"Average_tBodyGyro-mean()-Y"
+"Average_tBodyGyro-mean()-Z"
+"Average_tBodyGyro-std()-X"
+"Average_tBodyGyro-std()-Y"
+"Average_tBodyGyro-std()-Z"
+"Average_tBodyGyroJerk-mean()-X"
+"Average_tBodyGyroJerk-mean()-Y"
+"Average_tBodyGyroJerk-mean()-Z"
+"Average_tBodyGyroJerk-std()-X"
+"Average_tBodyGyroJerk-std()-Y"
+"Average_tBodyGyroJerk-std()-Z"
+"Average_tBodyAccMag-mean()"
+"Average_tBodyAccMag-std()"
+"Average_tGravityAccMag-mean()"
+"Average_tGravityAccMag-std()"
+"Average_tBodyAccJerkMag-mean()"
+"Average_tBodyAccJerkMag-std()"
+"Average_tBodyGyroMag-mean()"
+"Average_tBodyGyroMag-std()"
+"Average_tBodyGyroJerkMag-mean()"
+"Average_tBodyGyroJerkMag-std()"
+"Average_fBodyAcc-mean()-X"
+"Average_fBodyAcc-mean()-Y"
+"Average_fBodyAcc-mean()-Z"
+"Average_fBodyAcc-std()-X"
+"Average_fBodyAcc-std()-Y"
+"Average_fBodyAcc-std()-Z"
+"Average_fBodyAccJerk-mean()-X"
+"Average_fBodyAccJerk-mean()-Y"
+"Average_fBodyAccJerk-mean()-Z"
+"Average_fBodyAccJerk-std()-X"
+"Average_fBodyAccJerk-std()-Y"
+"Average_fBodyAccJerk-std()-Z"
+"Average_fBodyGyro-mean()-X"
+"Average_fBodyGyro-mean()-Y"
+"Average_fBodyGyro-mean()-Z"
+"Average_fBodyGyro-std()-X"
+"Average_fBodyGyro-std()-Y"
+"Average_fBodyGyro-std()-Z"
+"Average_fBodyAccMag-mean()"
+"Average_fBodyAccMag-std()"
+"Average_fBodyBodyAccJerkMag-mean()"
+"Average_fBodyBodyAccJerkMag-std()"
+"Average_fBodyBodyGyroMag-mean()"
+"Average_fBodyBodyGyroMag-std()"
+"Average_fBodyBodyGyroJerkMag-mean()"
+"Average_fBodyBodyGyroJerkMag-std()"
