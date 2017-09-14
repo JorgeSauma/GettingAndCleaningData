@@ -27,3 +27,5 @@ These rules are:
 >     1. Each variable forms a column: the average value is for just one feature
 >     2. Each observation forms a row: each observation is for one subject doing one activity
 >     3. Each type of observational unit forms a table: the table is juts for averages for the subject and activity combination.
+
+The webpage for the original data set is: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
